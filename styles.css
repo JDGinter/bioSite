@@ -1,0 +1,258 @@
+header{
+  background-color: #3D550C;
+  color:white;
+  padding:30px;
+  font-style: italic;
+  text-align: center;
+  width:100%;
+  h1{
+    font-weight: 400;
+    font-size:60px;
+  }
+}
+
+#navbar{
+  background-color: #59981A;
+  border-bottom-color: #59981A;
+  border-bottom-width: 40px;
+  padding:20px;
+  width:100%;
+  a{
+    padding:20px 20px;
+ 
+    text-decoration: none;
+    color:white;
+    font-weight:400px;
+    font-size:32px;
+  }
+  a:hover{
+    background-color:#3D550C;
+  }
+}
+div.card-about{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
+  float: center;
+
+  
+  
+}
+
+
+div.card-about{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.5s;
+  width: 90%;
+  margin-left: auto;
+  margin-right:auto;
+  background-color: #ECF87F;
+ div.card-title{
+  text-align:center;
+  background-color:#3D550C ;
+  p{
+    color:white;
+    font-size:48px;
+  }
+  }
+  div.card-content{
+    padding:200px 16px;
+    
+    img{
+      float: left;
+      width:40%;
+      padding-left:50px;
+      }
+    p{
+      float:right;
+      text-align: right;
+      width:40%;
+      padding-right:50px;
+      font-size: 24px;
+    }
+  }
+  
+}
+
+
+div.card-hobbies{
+  margin-left: auto;
+  margin-right:auto;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 90%;
+  float: center;
+  background-color: #ECF87F;
+ div.card-title{
+  text-align:center;
+  font-size: 2em;
+  background-color:#3D550C ;
+  p{
+    color:white;
+    font-size:48px;
+  }
+  }
+  div.card-content{
+    padding:200px 16px;
+    
+    img{
+      float: left;
+      width:40%;
+      padding-left:50px;
+      }
+    p{
+      float:right;
+      text-align: right;
+      width:40%;
+      padding-right:50px;
+      font-size: 24px;
+    }
+  
+}
+
+}
+div.card-about:hover{
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+  }
+div.card-hobbies:hover{
+  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+  }
+  
+/* Index End */
+/*About Start */
+
+
+div.card-imgSmall1{
+  margin-left: auto;
+  margin-right:auto;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  float: left;
+  background-color: #ECF87F;
+  padding:20px 20px;
+  div.card-content{
+    
+    img{
+      
+      width:100%;
+      }
+  
+}
+}
+div.card-imgSmall2{
+  margin-left: auto;
+  margin-right:auto;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  float: right;
+  background-color: #ECF87F;
+  padding:20px 20px;
+ 
+  div.card-content{
+    
+    img{
+      
+      width:100%;
+      }
+  
+}
+}
+
+div.card-imgLarge{
+  margin-left: auto;
+  margin-right:auto;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 80%;
+  float: center;
+  background-color: #ECF87F;
+  padding:200px 100px;
+ 
+  div.card-content{
+    
+    img{
+      
+      width:100%;
+      }
+  
+}
+}
+
+div.card-aboutPage{
+  margin-left: auto;
+  margin-right:auto;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 90%;
+  float: center;
+  background-color: #ECF87F;
+ div.card-title{
+  text-align:center;
+  font-size: 2em;
+  background-color:#3D550C ;
+  p{
+    color:white;
+    font-size:48px;
+  }
+  }
+  div.card-content{
+    padding:200px 16px;
+
+    p{
+      text-align: center;
+
+      font-size: 24px;
+    }
+  
+}
+
+}
+
+
+div.card-aboutPage:hover{
+  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+  }
+div.card-imgSmall1:hover{
+  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+  }
+div.card-imgSmall2:hover{
+  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+  }  
+div.card-imgLarge:hover{
+  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* About End */
+  /*Hobbies Start */
+  div.card-HobbiesPage{
+    margin-left: auto;
+    margin-right:auto;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 90%;
+    float: center;
+    background-color: #ECF87F;
+    div.card-title{
+    text-align:center;
+    font-size: 2em;
+    background-color:#3D550C ;
+      p{
+        color:white;
+        font-size:48px;
+      }
+    }
+  div.card-content{
+    padding:200px 16px;
+
+    p{
+      text-align: center;
+
+      font-size: 24px;
+    }
+  
+}
+
+}
+  
